@@ -1,4 +1,4 @@
-package com.example.udfArchitecture.composable.ui.exampleScreen
+package com.example.udfArchitecture.composable.ui.example
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -26,6 +26,7 @@ object ExampleScreen :
         effect: SharedFlow<ExampleScreenEffect>,
         processUiAction: (action: ExampleScreenAction) -> Unit
     ) {
+        //We use LocalContext.current for getting resources
         val context = LocalContext.current
 
         when (state) {

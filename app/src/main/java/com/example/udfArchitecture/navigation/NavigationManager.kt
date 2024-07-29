@@ -22,5 +22,5 @@ class NavigationManager {
 
 sealed class NavigationCommands {
     data class NavigateCommand(val directions: UDFDestinations) : NavigationCommands()
-    object PopBackStackCommand : NavigationCommands()
+    data object PopBackStackCommand : NavigationCommands()
 }
