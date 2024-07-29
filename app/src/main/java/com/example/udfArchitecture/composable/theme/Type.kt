@@ -1,4 +1,4 @@
-package com.example.udfarchitecture.ui.theme
+package com.example.udfArchitecture.composable.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

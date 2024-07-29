@@ -1,4 +1,4 @@
-package com.example.udfarchitecture
+package com.example.udfArchitecture
 
 import org.junit.Test
 

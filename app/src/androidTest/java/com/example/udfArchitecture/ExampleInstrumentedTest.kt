@@ -1,4 +1,4 @@
-package com.example.udfarchitecture
+package com.example.udfArchitecture
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

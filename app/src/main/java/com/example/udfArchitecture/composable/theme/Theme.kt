@@ -1,6 +1,5 @@
-package com.example.udfarchitecture.ui.theme
+package com.example.udfArchitecture.composable.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
