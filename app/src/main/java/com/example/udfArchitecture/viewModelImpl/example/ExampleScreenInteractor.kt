@@ -20,7 +20,7 @@ class ExampleScreenInteractor @Inject constructor(
 
         //Emitting some data from repo when call was success
         // val exampleGreetingMessage: String = someRepository.getGreeting()
-        val exampleGreetingMessage:String = "Android"
+        val exampleGreetingMessage = "Android"
         emit(ExampleScreenResult.SuccessResult(exampleGreetingMessage))
     }
 }
