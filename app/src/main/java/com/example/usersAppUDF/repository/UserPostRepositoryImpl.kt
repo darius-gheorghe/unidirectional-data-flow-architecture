@@ -1,7 +1,7 @@
-package com.dgheorghe.userpost.repository
+package com.example.usersAppUDF.repository
 
 import android.util.Log
-import com.dgheorghe.userpost.api.UserPostService
+import com.example.usersAppUDF.api.UserPostService
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

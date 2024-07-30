@@ -1,6 +1,6 @@
-package com.dgheorghe.userpost.api
+package com.example.usersAppUDF.api
 
-import com.dgheorghe.userpost.domain.User
+import com.example.usersAppUDF.domain.User
 import retrofit2.http.GET
 
 interface UserListService {

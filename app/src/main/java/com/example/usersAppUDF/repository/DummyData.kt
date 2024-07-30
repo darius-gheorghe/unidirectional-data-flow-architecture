@@ -1,7 +1,7 @@
-package com.dgheorghe.userpost.repository
+package com.example.usersAppUDF.repository
 
-import com.dgheorghe.userpost.domain.Post
-import com.dgheorghe.userpost.domain.User
+import com.example.usersAppUDF.domain.Post
+import com.example.usersAppUDF.domain.User
 
 object DummyData {
     val userList: List<User> = listOf(

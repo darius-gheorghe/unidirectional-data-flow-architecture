@@ -1,6 +1,6 @@
-package com.dgheorghe.userpost.api
+package com.example.usersAppUDF.api
 
-import com.dgheorghe.userpost.domain.Post
+import com.example.usersAppUDF.domain.Post
 import retrofit2.http.GET
 import retrofit2.http.Path
 

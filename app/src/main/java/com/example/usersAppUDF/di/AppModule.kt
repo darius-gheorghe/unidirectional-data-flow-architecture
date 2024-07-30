@@ -1,11 +1,11 @@
 package com.example.usersAppUDF.di
 
-import com.dgheorghe.userpost.api.RetrofitUserInstance
-import com.dgheorghe.userpost.api.UserListService
-import com.dgheorghe.userpost.api.UserPostService
-import com.dgheorghe.userpost.repository.UserPostRepository
-import com.dgheorghe.userpost.repository.UserPostRepositoryImpl
-import com.dgheorghe.userpost.repository.UsersRepository
+import com.example.usersAppUDF.api.RetrofitUserInstance
+import com.example.usersAppUDF.api.UserListService
+import com.example.usersAppUDF.api.UserPostService
+import com.example.usersAppUDF.repository.UserPostRepository
+import com.example.usersAppUDF.repository.UserPostRepositoryImpl
+import com.example.usersAppUDF.repository.UsersRepository
 import com.example.usersAppUDF.navigation.NavigationManager
 import dagger.Module
 import dagger.Provides

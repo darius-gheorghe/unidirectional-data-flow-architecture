@@ -1,6 +1,6 @@
-package com.dgheorghe.userpost.repository
+package com.example.usersAppUDF.repository
 
-import com.dgheorghe.userpost.domain.Post
+import com.example.usersAppUDF.domain.Post
 import kotlinx.coroutines.flow.Flow
 
 interface UserPostRepository {

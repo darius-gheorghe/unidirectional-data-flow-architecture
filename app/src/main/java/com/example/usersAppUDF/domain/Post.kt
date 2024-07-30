@@ -1,4 +1,4 @@
-package com.dgheorghe.userpost.domain
+package com.example.usersAppUDF.domain
 
 data class Post(
     val id: Long,
