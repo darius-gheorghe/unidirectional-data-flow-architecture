@@ -9,7 +9,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.example.design.color.StyledThemeProvider
+import com.example.udfArchitecture.design.color.StyledThemeProvider
 import com.example.udfArchitecture.navigation.bottomNavigation.BottomNavItem
 
 @Composable
