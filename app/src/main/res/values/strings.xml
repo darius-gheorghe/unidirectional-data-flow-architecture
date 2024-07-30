@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">UDFArchitecture</string>
+    <string name="app_name">UserPost</string>
+    <string name="contact_list_top_bar">Contacte</string>
+    <string name="contact_list_title">CONTACTELE MELE</string>
+    <string name="user_avatar_description">User avatar</string>
+    <string name="navigation_description">Navigate to contact posts</string>
+    <string name="user_post_appbar_title">Detalii contact</string>
+    <string name="navigation_back_description">Go back</string>
 </resources>
